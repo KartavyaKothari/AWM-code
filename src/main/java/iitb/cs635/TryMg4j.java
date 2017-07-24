@@ -11,6 +11,10 @@ import org.apache.commons.io.FileUtils;
 public class TryMg4j {
     /**
      * Indexes a directory of HTML document files.
+     * From command line, this can be run as
+     * mvn exec:java -Dexec.inClass="iitb.cs635.TryMg4j"
+     *     -Dexec.args="corpus index"
+     * Then visit http://localhost:4242/Query
      * @param args [1]=/path/to/corpus/dir [2]=/path/to/index/dir
      * @throws Exception 
      */
