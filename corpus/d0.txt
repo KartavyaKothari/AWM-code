@@ -1,0 +1,3 @@
+In this work, we introduce a convolutional neural network model, ConvE, for the
+task of link prediction. ConvE applies 2D convolution directly on embeddings,
+thus inducing spatial structure in embedding space.

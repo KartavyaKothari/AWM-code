@@ -1,0 +1,4 @@
+We take inspiration from computer vision, where convolution is able to learn
+multiple layers of non-linear features while reducing the number of parameters
+through weight sharing. Applied naively, convolutional models for link prediction
+are computationally costly.
