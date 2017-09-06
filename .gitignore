@@ -1,3 +1,7 @@
 nbactions.xml
 /target/
 /index/
+*iml
+*~
+/.git
+/.idea
