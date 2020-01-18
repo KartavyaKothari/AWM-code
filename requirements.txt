@@ -1,0 +1,7 @@
+ipython
+jupyter
+matplotlib
+networkx
+pandas
+scipy
+tensorflow==1.15
